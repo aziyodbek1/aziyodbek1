@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ziyodbek Akhmadjonov
+- 👀 I’m interested in Coding and Collecting Books
+- 🌱 I’m currently learning programming deeply
+- 🧑‍💻 I'm MERN stack developer for 3 years
